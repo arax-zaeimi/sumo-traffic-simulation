@@ -1,0 +1,4 @@
+﻿nurse,patient_name,from,to,stop_duration,priority,id
+Jeniffer,Sam,1819 Joseph Manseau Montreal,1850 Lincoln Montreal,360,1,service_vehicle_0
+Thomas,Angel,2140 Guy Montreal,1819 Joseph Manseau Montreal,360,1,service_vehicle_1
+Jane,Megane,1808 Sherbrooke Ouest Montreal,1441 Rue Saint-Marc Montréal,360,1,service_vehicle_2

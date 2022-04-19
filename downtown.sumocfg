@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration>
+    <input>
+        <!-- <net-file value="./inputs/montreal_3.net.xml" /> -->
+        <route-files value="./inputs/vehicle_route_types.rou.xml,./inputs/random_trips_3.xml" />
+        <!-- <route-files value="./inputs/custom_route.rou.xml" /> -->
+        <additional-files value="./inputs/concordia_sgw_region.poly.xml" />
+        <gui-settings-file value="./inputs/view.settings.xml" />
+    </input>
+</configuration>

@@ -1,0 +1,9 @@
+{
+    "vehicleId": "1", 
+    "departTime": "10",
+    "stopDuration": "7200",
+    "from": "address",
+    "to":"address"
+}
+
+
