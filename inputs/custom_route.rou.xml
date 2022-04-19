@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2022-02-09 12:28:46 by Eclipse SUMO duarouter Version 1.9.2
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value=".\downtown\montreal_3.net.xml"/>
+        <route-files value=".\downtown\custom_trip.trip.xml"/>
+    </input>
+
+    <output>
+        <output-file value=".\downtown\custom_route.rou.xml"/>
+        <alternatives-output value=".\downtown\custom_route.rou.alt.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="10000"/>
+    </time>
+
+    <report>
+        <no-warnings value="true"/>
+        <ignore-errors value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="service_vehicle" vClass="passenger" color="cyan" />
+    <vType id="truck_truck" vClass="truck" />
+    <vType id="emergency" vClass="emergency" color="red" />
+    <vehicle id="custom_vehicle_0" depart="0" type="emergency">
+        <route edges="964696603#0 936656919 37852832#0 37852832#1 37852832#2 37852832#3 329989224#0 329989224#1 329989224#2 329989224#2-AddedOffRampEdge 453964887#0 453964892#0 453964892#1 453964892#2 453964892#3 455083968#1 455083976#0 41258973#1 41258973#2 -455083994#2 -455083993#3 -455083993#2 -165217827#3" />
+        <!-- <route edges="964696603#0 936656919 37852832#0 37852832#1 37852832#2 37852832#3 329989224#0 329989224#1 329989224#2 329989224#2-AddedOffRampEdge 453964887#0" /> -->
+        <!-- <stop edge="329989224#1" duration="15.00" parking="1" /> -->
+    </vehicle>
+</routes>

@@ -1,0 +1,71 @@
+Warning: Discarding unknown compound 'cycleway.lane' in type 'cycleway.lane|highway.secondary' (first occurence for edge '41258976').
+Warning: Discarding unknown compound 'railway.platform' in type 'highway.footway|railway.platform' (first occurence for edge '391085483').
+Warning: Discarding unknown compound 'cycleway.track' in type 'cycleway.track|highway.secondary' (first occurence for edge '455083993').
+Warning: Not joining junctions 213389732,3390027968,3390027970,3390027983,3390027985,4710972744,4711840736 (parallel incoming 20178495#0,4886314#1).
+Warning: Ambiguity in turnarounds computation at junction 'cluster_1195282832_7298625329_9217289472'.
+Warning: Ambiguity in turnarounds computation at junction 'cluster_237615647_391401454_4012949548'.
+Warning: Ambiguity in turnarounds computation at junction 'cluster_32124392_4024345302_4024535598_6439139644_6439139645_9217289456_9217289457_9217289458'.
+Warning: Ambiguity in turnarounds computation at junction 'cluster_32124400_391401350_4015309297_4024427760_4024427762_9217289473_9217289474'.
+Warning: Ambiguity in turnarounds computation at junction 'cluster_4729976454_4729976455_4729976456_4729976457_4729976458_9217289453_9217289454_9217289455'.
+Warning: Found sharp turn with radius 6.76 at the start of edge '-104039332#1'.
+Warning: Found sharp turn with radius 6.93 at the start of edge '-104039334#0'.
+Warning: Found sharp turn with radius 7.19 at the end of edge '-37997321'.
+Warning: Found sharp turn with radius 6.76 at the end of edge '104039332#1'.
+Warning: Found sharp turn with radius 7.19 at the start of edge '37997321'.
+Warning: Ambiguous traffic light type for node cluster 'joined_4027387148_cluster_29796370_29796934_4026382886_4027387149_4711887944_4711887945_6558102673', setting to 'static'.
+Warning: The traffic light '2519353224' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '2519353224'
+Warning: The traffic light '26233216' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '26233216'
+Warning: The traffic light '26233220' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '26233220'
+Warning: The traffic light '29795318' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '29795318'
+Warning: The traffic light '32124401' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '32124401'
+Warning: The traffic light '4020488678' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '4020488678'
+Warning: The traffic light '4024279258' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '4024279258'
+Warning: The traffic light '4024345298' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '4024345298'
+Warning: The traffic light '4026382885' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '4026382885'
+Warning: The traffic light '4026382887' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '4026382887'
+Warning: The traffic light '4026383989' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '4026383989'
+Warning: The traffic light '4026415185' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '4026415185'
+Warning: The traffic light '4026515867' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '4026515867'
+Warning: The traffic light '4708757520' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '4708757520'
+Warning: The traffic light '4708757522' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '4708757522'
+Warning: The traffic light '4708757523' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '4708757523'
+Warning: The traffic light '4708757524' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '4708757524'
+Warning: The traffic light '4708757525' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '4708757525'
+Warning: The traffic light '4708757526' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '4708757526'
+Warning: The traffic light '4708757527' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '4708757527'
+Warning: The traffic light '4710946608' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '4710946608'
+Warning: The traffic light '4711759809' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '4711759809'
+Warning: The traffic light '4711825133' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '4711825133'
+Warning: The traffic light '4711825136' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '4711825136'
+Warning: The traffic light '9172500824' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '9172500824'
+Warning: Minor green from edge '41258973#2' to edge '-455083994#2' exceeds 19.44m/s. Maybe a left-turn lane is missing.
+Warning: Minor green from edge '330153472#2' to edge '330153473#1' exceeds 19.44m/s. Maybe a left-turn lane is missing.
+Warning: Minor green from edge '463825905' to edge '4886314#1' exceeds 19.44m/s. Maybe a left-turn lane is missing.
+Warning: Minor green from edge '-165217870#1' to edge '165217834#3' exceeds 19.44m/s. Maybe a left-turn lane is missing.
+Warning: Minor green from edge '165217870#1' to edge '-41258974#0' exceeds 19.44m/s. Maybe a left-turn lane is missing.
+Warning: 6 total messages of type: Minor green from edge '%' to edge '%' exceeds %m/s. Maybe a left-turn lane is missing.

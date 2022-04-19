@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<vehicles>
+    <vehicle id="0" depart="5.00">
+        <trips>
+            <trip id="1" depart="10.00" from="lat,lon" to="lat,lon" />
+            <trip id="2" depart="20.00" from="lat,lon" to="lat,lon" />
+        </trips>
+    </vehicle>
+    <vehicle id="2" depart="5.00">
+        <trips>
+            <trip id="1" depart="10.00" from="lat,lon" to="lat,lon" />
+            <trip id="2" depart="20.00" from="lat,lon" to="lat,lon" />
+        </trips>
+    </vehicle>
+</vehicles>

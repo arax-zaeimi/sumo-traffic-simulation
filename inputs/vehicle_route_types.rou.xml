@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="service_vehicle" vClass="passenger" color="cyan" />
+    <vType id="truck_truck" vClass="truck" />
+    <vType id="emergency" vClass="emergency" color="red" />
+</routes>

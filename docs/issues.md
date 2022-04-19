@@ -1,0 +1,1 @@
+1. I have 2 clients connected to SUMO. One runs server and another connects to running server. 2nd process is running. How can I pass parameters to the 2nd client to change the sumo while it is running?
