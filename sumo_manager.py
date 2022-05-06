@@ -173,8 +173,8 @@ def process_schedule(schdule_file_path):
 
 def forward_simulation_step():
     step = 0
-    # while traci.simulation.getMinExpectedNumber() > 0:
-    while True:
+    while traci.simulation.getMinExpectedNumber() > 0:
+        # while True:
         traci.simulationStep()
         step += 1
 
@@ -221,7 +221,6 @@ def setNewDestination(vehicle_id, address):
 def insertNewVehicle(vehicle_id, departure, destination):
     net = load_simulation_network()
     insertVehicle(vehicle_id, departure, destination, net)
-
 
     # main entry point
 if __name__ == "__main__":
