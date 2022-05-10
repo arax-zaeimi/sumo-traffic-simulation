@@ -3,7 +3,6 @@
         "segmentId":"1",
         "vehicleId": "1",
         "departTime":"10",
-        "stopDuration": "5000",
         "destination": "address"
     }
 ]

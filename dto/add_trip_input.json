@@ -1,9 +1,7 @@
 {
-    "vehicleId": "1", 
-    "departTime": "10",
-    "stopDuration": "7200",
+    "segmentId":"2",
+    "vehicleId": "5", 
+    "departTime": "10",    
     "from": "address",
     "to":"address"
 }
-
-
