@@ -97,6 +97,7 @@ def start_server():
                  "--tripinfo-output", options.output,
                  "--error-log", "errors.txt",
                  "--tripinfo-output.write-unfinished",
+                 "--duration-log.statistics", "true",
                  #  "--num-clients", SIMULATION_CLIENTS,
                  "--delay", SIMULATION_DELAY,
                  "--step-length", SIMULATION_STEP_LENGTH

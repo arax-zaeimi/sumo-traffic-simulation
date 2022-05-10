@@ -3,9 +3,8 @@
        "vehicleId": "1",
        "segments": [
           {
-             "id": "1",
+             "segmentId": "1",
              "departTime": "10.00",
-             "stopDuration": "7200",
              "from": "address",
              "to": "address"
           }
